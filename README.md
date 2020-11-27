@@ -1,7 +1,7 @@
 Controlled Forms App
 
-<div><img src="Forms00.jpg"></div>
-<div><img src="Forms01.jpg"></div>
+<div><img src="Form00.jpg"></div>
+<div><img src="Form01.jpg"></div>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
